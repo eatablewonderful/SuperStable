@@ -1,0 +1,13 @@
+{
+  "name": "superstable",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --reset"
+  }
+}
