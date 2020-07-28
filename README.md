@@ -41,5 +41,9 @@ you can
 2. truffle compile
 3. truffle deploy to test them
 
-a live version will be up soon
+** Note on issue:Sorry could not deploy a live demo version as protocol dependencies of my project vary with testnets and are not available across all testnets**
+** for example my project is depended on both aave and tellor and aave is available only on mainet,kovan and ropsten while tellor is only on mainet and rinkenby ,don't have much eth to deploy on mainet,I hope tellor will be available on more testnets soon,I hope you can understand **
+
+Tellor docs:https://tellor.readthedocs.io/en/latest/UserSetup/
+AAve docs:https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances
 
